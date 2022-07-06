@@ -1,5 +1,5 @@
 # ATML-notebooks
-Proposed assignment notebooks for Advanced Topics in Machine Learning tasks
+Proposed assignment notebooks for the Advanced Topics in Machine Learning course
 
 ### Assignment 1
 Cost-sensitive learning & Class Imbalance using the [UCI Heart Dataset](https://archive.ics.uci.edu/ml/datasets/statlog+(heart) "Link to dataset") and the [Credit Card fraud](https://www.kaggle.com/mlg-ulb/creditcardfraud) dataset (imbalance) 
